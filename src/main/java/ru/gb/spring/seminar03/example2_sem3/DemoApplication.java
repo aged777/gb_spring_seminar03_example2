@@ -1,4 +1,4 @@
-package com.example.demo;
+package ru.gb.spring.seminar03.example2_sem3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
